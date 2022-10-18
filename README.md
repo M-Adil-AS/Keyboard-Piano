@@ -1,5 +1,5 @@
 # Keyboard-Piano
-A personal project I made using JavaScript & Tone.JS library
+A personal project I made using JavaScript & Tone.JS library. Also uploaded its tutorial on my youTube channel
 
 Demo Video:
 
