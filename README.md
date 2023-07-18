@@ -1,5 +1,13 @@
 # Keyboard-Piano
-A personal project I made using JavaScript & Tone.JS library. Also uploaded its tutorial on my youTube channel
+The program allows users to play and create music using their computer keyboard.
+
+It aims to simulate a genuine piano-playing experience while promoting creativity and musical exploration.
+
+### Instructions:
+White Notes (From Tab Key to Backslash Key)        
+Black Notes (From Exclamation Key to Backspace Key)       
+
+Demo URL: https://m-adil-as.github.io/Keyboard-Piano
 
 Demo Video:
 
